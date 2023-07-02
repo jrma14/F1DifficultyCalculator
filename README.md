@@ -1,4 +1,4 @@
-# F1DifficultyCalculator
+# F1DifficultyCalculator (React Version)
 Calculates and keeps track of f1 22 ai difficulty based on time trial laptimes
 
 must install webpack dev server using
